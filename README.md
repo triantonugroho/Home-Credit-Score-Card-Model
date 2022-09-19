@@ -6,42 +6,42 @@ Home Credit saat ini sedang menggunakan berbagai macam metode statistik dan Mach
 
 ## Exploratory Data Analysis (EDA)
 
-### Import Library
-### Read Dataset
-### Display 5 Samples
-### Dataset Information
-### Checking Missing Values
-### Drop all bars that contains Missing Values
-### Drop all columns that contains Zero Values
-### Creating Age Column
-### Checking Data Duplicates
-### Checking Shape or Dimension
-### Checking Label Proportion
-### Gender : Approved vs Rejected
-### Contract Type : Approved vs Rejected
-### Descriptive Statistic
-### Histogram
-### Pair Plot
-### Correlation Matrix
-### Checking for Multicolinearity
-### Checking Number of Unique Values
-### Remove Unnecessary Columns
+- Import Library
+- Read Dataset
+- Display 5 Samples
+- Dataset Information
+- Checking Missing Values
+- Drop all bars that contains Missing Values
+- Drop all columns that contains Zero Values
+- Creating Age Column
+- Checking Data Duplicates
+- Checking Shape or Dimension
+- Checking Label Proportion
+- Gender : Approved vs Rejected
+- Contract Type : Approved vs Rejected
+- Descriptive Statistic
+- Histogram
+- Pair Plot
+- Correlation Matrix
+- Checking for Multicolinearity
+- Checking Number of Unique Values
+- Remove Unnecessary Columns
 
 ## Data Preprocessing
 
-### Separating the feature and target columns
-### Encoding Categorical Columns
-### Extracting Categorical Columns
-### Printing Unique Values of Each Columns
-### Get Dummies from Categorical Columns
-### Extracting the Numerical Columns
-### Combining Numerical and Categorical Columns
-### Outliers Detection
-### Handling Outliers
-### Split Dataset
-### Normalization
-### Balancing the Dataset using Oversampling (SMOTE)
-### Reduce Overfitting using Principal Component Analysis (PCA)
+- Separating the feature and target columns
+- Encoding Categorical Columns
+- Extracting Categorical Columns
+- Printing Unique Values of Each Columns
+- Get Dummies from Categorical Columns
+- Extracting the Numerical Columns
+- Combining Numerical and Categorical Columns
+- Outliers Detection
+- Handling Outliers
+- Split Dataset
+- Normalization
+- Balancing the Dataset using Oversampling (SMOTE)
+- Reduce Overfitting using Principal Component Analysis (PCA)
 
 ## Modeling
 1. Random Forest Classifier
